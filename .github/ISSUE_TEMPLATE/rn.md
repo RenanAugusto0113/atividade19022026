@@ -1,3 +1,10 @@
+---
+name: "Regra de Negócio (RN)"
+about: Descrever uma regra obrigatória que afeta o comportamento do sistema
+title: "[RN-XX] "
+labels: ["RN"]
+---
+
 ## Descrição
 
 
